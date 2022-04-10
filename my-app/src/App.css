@@ -1,0 +1,15 @@
+.operations{
+    /* border: 1px solid black; */
+    width: 64%;
+  
+}
+
+
+.pagination{
+    display: flex;
+    align-items: center;
+}
+
+.pagination button{
+    margin: 0 1em;
+}
